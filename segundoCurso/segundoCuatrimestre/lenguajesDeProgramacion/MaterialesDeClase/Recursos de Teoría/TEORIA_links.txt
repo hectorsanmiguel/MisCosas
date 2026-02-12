@@ -1,0 +1,17 @@
+
+Recursos didácticos:
+
+Cuaderno con teoría de autómatas (el mismo, con distintos links, por si alguno no está disponible):
+http://di002.edv.uniovi.es/~cueva/publicaciones/libros/36_LGA.pdf
+también:
+https://www.researchgate.net/publication/282074762_Lenguajes_gramaticas_y_automatas  --> "Access Full-text"
+https://reflection.uniovi.es/ortin/publications/automata.pdf  [Versión peor]
+
+Temas:
+https://informatica.uv.es/docencia/iiguia/asignatu/2000/PL/2007/tema1.pdf
+https://informatica.uv.es/docencia/iiguia/asignatu/2000/PL/2007/tema2.pdf
+https://informatica.uv.es/docencia/iiguia/asignatu/2000/PL/2007/tema3.pdf
+https://informatica.uv.es/docencia/iiguia/asignatu/2000/PL/2007/tema4.pdf
+https://informatica.uv.es/docencia/iiguia/asignatu/2000/PL/2007/tema5.pdf
+https://informatica.uv.es/docencia/iiguia/asignatu/2000/PL/2007/tema6.pdf
+https://informatica.uv.es/docencia/iiguia/asignatu/2000/PL/2007/tema7.pdf
